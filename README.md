@@ -1,5 +1,6 @@
 [![I'm Ukrainian](https://img.shields.io/static/v1?label=I%20am&message=Ukrainian&labelColor=1f5fb2&color=fad247&style=for-the-badge)](https://github.com/GooRoo/ukrainian-shields)
 
+Kudos to [@GooRoo](https://github.com/GooRoo) for the shield ^
 <!--
 **aquiladev/aquiladev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
